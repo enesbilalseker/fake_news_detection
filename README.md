@@ -1,1 +1,1 @@
-# fake_news_detection
+A machine learning project for detecting fake news from text using NLP (Natural Language Processing) tools of Python. Dataset is from Kaggle, used three different algorithms, approximate success rate is near %98. 
